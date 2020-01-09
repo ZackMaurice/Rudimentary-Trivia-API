@@ -1,5 +1,5 @@
-Name: Zacharia Maurice
-Student Number: 101116412
+
+
 
 If the client inputs an invalid query, the server will not respond with questions.
 -> responds with status 1, and the reason for that status
